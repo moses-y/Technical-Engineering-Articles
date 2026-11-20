@@ -15,7 +15,7 @@ Each entry links straight to the original thread.
 - [DevOps](#devops) (1)
 - [Microservices](#microservices) (6)
 - [Machine Learning](#machine-learning) (1)
-- [AI Engineering](#ai-engineering) (3)
+- [AI Engineering](#ai-engineering) (5)
 
 ## HLD
 
@@ -135,6 +135,8 @@ Each entry links straight to the original thread.
 | [AI Terminology Explained](https://x.com/Harry_The_Nerd/status/2087837722098700421) | A Complete Beginner's Glossary for AI Terminology | 2026-08-13 |
 | [GenAI Foundations - How LLMs actually work](https://x.com/Harry_The_Nerd/status/2119728019753582928) | Understanding the working of LLMs | 2026-11-09 |
 | [Tokens And Context Windows](https://x.com/Harry_The_Nerd/status/2120863048605073800) | What tokens are, how BPE builds them, why context windows fill up, and how tokens drive your bill | 2026-11-12 |
+| [Transformers, Minus the Math](https://x.com/Harry_The_Nerd/status/2122281173938286896) | Why transformers won, and where they still struggle | 2026-11-16 |
+| [Training vs Inference: How LLMs Are Made, and How They’re Served](https://x.com/Harry_The_Nerd/status/2123372893375692812) | How a model is actually trained (pretraining, fine-tuning, RLHF) | 2026-11-19 |
 
 
 ---

@@ -530,6 +530,20 @@
       "category": "AI Engineering",
       "date": "2026-11-12",
       "description": "What tokens are, how BPE builds them, why context windows fill up, and how tokens drive your bill"
+    },
+    {
+      "title": "Transformers, Minus the Math",
+      "url": "https://x.com/Harry_The_Nerd/status/2122281173938286896",
+      "category": "AI Engineering",
+      "date": "2026-11-16",
+      "description": "Why transformers won, and where they still struggle"
+    },
+    {
+      "title": "Training vs Inference: How LLMs Are Made, and How They’re Served",
+      "url": "https://x.com/Harry_The_Nerd/status/2123372893375692812",
+      "category": "AI Engineering",
+      "date": "2026-11-19",
+      "description": "How a model is actually trained (pretraining, fine-tuning, RLHF)"
     }
   ]
 }
